@@ -7,7 +7,6 @@
 #' @param object Result of STR decomposition.
 #' @param include Vector of component names to include in the result. The default is \code{c("Trend", "Random")}.
 #' @param ... Other arguments not currently used.
-#' @author Alexander Dokumentov
 #' @examples
 #' \donttest{
 #'
